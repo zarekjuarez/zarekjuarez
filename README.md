@@ -1,13 +1,5 @@
-
----
-<pre align="center" style="font-family: monospace;">
-░▀▀█░█▀█░█▀▄░█▀▀░█░█░░░▀▀█░█░█░█▀█░█▀▄░█▀▀░▀▀█
-░▄▀░░█▀█░█▀▄░█▀▀░█▀▄░░░░░█░█░█░█▀█░█▀▄░█▀▀░▄▀░
-░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀░░░▀▀░░▀▀▀░▀░▀░▀░▀░▀▀▀░▀▀▀
-</pre>
----
 <p align ="center">
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=4B1FB8&center=true&vCenter=true&width=435&lines=Endpoint+Engineer;IT+Specialist;Security+Enthusiast;10+Years+Experience" alt="Typing SVG" /></a>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=682BFFFF&center=true&vCenter=true&width=435&lines=Endpoint+Engineer;IT+Specialist;Security+Enthusiast;10+Years+Experience" alt="Typing SVG" /></a>
 </p>
 <p align="center"> 
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTlkODdwbGhxcGswaTExc3N2Z2VyaThkbTdsdnBrZGpibjE0cDN4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bFEQEDLmhrYsse0zFF/giphy.gif" alt="Gif" width="550"/>
