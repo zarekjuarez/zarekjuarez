@@ -1,37 +1,21 @@
-<!-- 
-     ______    __    __  ___       __       __  ___  _______ .______      
-    /      |  |  |  |  |/   \     |  |     |  |/  / |   ____||   _  \     
-   |  ,----'  |  |__|  |  ^)  |    |  |     |  '  /  |  |__   |  |_)  |    
-   |  |       |   __   |  /  /     |  |     |    <   |   __|  |      /     
-   |  `----.  |  |  |  | /  /----. |  `----.|  .  \  |  |____ |  |\  \----.
-    \______|  |__|  |__|/__/     \ \______||__|\__\ |_______|| _| `._____|
-                                                                          
-    Personal Hacker-Style Readme
-    -----------------------------------------------------------------------
--->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=36&duration=3000&color=00FF00&center=true&vCenter=true&lines=HELLO%2C+WORLD!;WELCOME+TO+MY+DOMAIN!">
-</h1>
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWthcmluNXFpdjh2NzR1YTI5amt3a2JuN2U0aDVodzFpdTFvbWl5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="Matrix Hacker Gif" width="200"/>
+---
+<pre align="center" style="font-family: monospace;">
+░▀▀█░█▀█░█▀▄░█▀▀░█░█░░░▀▀█░█░█░█▀█░█▀▄░█▀▀░▀▀█
+░▄▀░░█▀█░█▀▄░█▀▀░█▀▄░░░░░█░█░█░█▀█░█▀▄░█▀▀░▄▀░
+░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀░░░▀▀░░▀▀▀░▀░▀░▀░▀░▀▀▀░▀▀▀
+</pre>
+---
+<p align ="center">
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=4B1FB8&center=true&vCenter=true&width=435&lines=Endpoint+Engineer;IT+Specialist;Security+Enthusiast;10+Years+Experience" alt="Typing SVG" /></a>
+</p>
+<p align="center"> 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTlkODdwbGhxcGswaTExc3N2Z2VyaThkbTdsdnBrZGpibjE0cDN4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bFEQEDLmhrYsse0zFF/giphy.gif" alt="Gif" width="550"/>
 </p>
 
 ---
 
-<pre align="center" style="font-family: monospace;">
- _____              _          _                          
-|__  /__ _ _ __ ___| | __     | |_   _  __ _ _ __ ___ ____
-  / // _` | '__/ _ \ |/ /  _  | | | | |/ _` | '__/ _ \_  /
- / /| (_| | | |  __/   <  | |_| | |_| | (_| | | |  __// / 
-/____\__,_|_|  \___|_|\_\  \___/ \__,_|\__,_|_|  \___/___|
-
-</pre>
-
----
-
-## About Me <img src="https://img.icons8.com/emoji/25/skull-and-crossbones.png"/>
+## <img src="https://img.icons8.com/?size=50&id=7819&format=png&color=40C057"/> About Me
 
 - 👾 **Alias**: CyberKnight
 - 🤖 **Passions**: Cybersecurity, Endpoint Management
