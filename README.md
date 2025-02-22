@@ -8,26 +8,25 @@ https://readme-typing-svg.herokuapp.com/demo/
 <p align ="center">
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F700F1&center=true&vCenter=true&width=435&height=25&lines=Endpoint+Engineer;IT+Specialist;Security+Enthusiast;10+Years+of+Experience" alt="Typing SVG" /></a>
 </p>
-<!-- ----SECTION: GIPHY/IMAGE BANNER AND SPOTIFY---- 
+<!-- ----SECTION: GIPHY/IMAGE BANNER ----
 Resources:
 https://giphy.com/
-https://github.com/kittinan/spotify-github-profile
 -->
 <p align="center"> 
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTlkODdwbGhxcGswaTExc3N2Z2VyaThkbTdsdnBrZGpibjE0cDN4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bFEQEDLmhrYsse0zFF/giphy.gif" alt="Gif" width="550"/
-</p>
-<p align="center">
-     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=124821895&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
 </p>
 
 ---
 <!-- ----SECTION: ABOUT ME---- 
 Resources:
 https://slackmojis.com/
+https://github.com/kittinan/spotify-github-profile
 -->
 ## <img src="https://emojis.slackmojis.com/emojis/images/1682954316/65609/blue-verified.gif?1682954316" width="30"/> $\color{magenta}{\textsf{About Me}}$
-
-I’m an Endpoint Engineer where I focus on endpoint management, automation, and vulnerability remediation. I’m passionate about building secure, efficient IT environments that enable teams to do their best work.
+<img width="250x" align="right" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=124821895&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
+<p>
+     I’m an Endpoint Engineer where I focus on endpoint management, automation, and vulnerability remediation. I’m passionate about building secure, efficient IT environments that enable teams to do their best work.
+</p>
 
 ✨ **Quick Facts**
 - Location: DFW, TX (Remote)
