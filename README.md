@@ -13,14 +13,42 @@
 ---
 <!-- ----SECTION: ABOUT ME---- -->
 ## <img src="https://img.icons8.com/?size=50&id=7819&format=png&color=40C057"/> About Me
+I’m an Endpoint Engineer where I focus on endpoint management, automation, and vulnerability remediation. I’m passionate about building secure, efficient IT environments that enable teams to do their best work.
 
-- 👾 **Alias**: CyberKnight
-- 🤖 **Passions**: Cybersecurity, Endpoint Management
-- 🏴‍☠️ **Currently Cracking**: `Top Secret Missions`
-- 🌐 **Goal**: <span style="color: #00FF00;">Secure all the things!</span>
+✨ **Quick Facts**
+- Location: DFW, TX (Remote)
+- Education:
+  - MBA in IT Management from Western Governors University
+  - B.S. in Information Systems from the University of Texas at Arlington
+- Certifications:
+  - CompTIA A+, Network+, Security+
+  - JAMF 100, 200
+  - MCSA: Windows 10
 
-> “The quieter you become, the more you are able to hear.”  
-> – *Kali Linux Terminal*
+⚙️ **What I Do**
+- Endpoint Management: Administer client platform management tools to streamline software deployments, patching, and configuration management.
+- Automation & Scripting: Develop scripts and policies to enforce secure baselines, optimize workflow, and reduce manual tasks.
+- Collaboration: Work closely with cross-functional teams (Helpdesk, Security, Corporate Apps) to troubleshoot issues, deploy new software, and implement system-wide improvements.
+
+💡 **Ongoing Learning & Interests**
+<p>I believe in continuous growth and love exploring new areas of IT security. I share regular updates on my LinkedIn profile as I progress through these courses and labs. If you have any recommendations or want to collaborate on a project in these areas, feel free to reach out! Here are a few courses and topics I’m diving into:</p>
+
+- Web Application Pentesting: Learning about application security fundamentals, OWASP Top 10, and secure coding practices.
+- Vulnerability Management: Expanding my expertise by focusing on advanced techniques for vulnerability scanning and remediation strategies.
+- AWS Cloud: Studying for AWS certifications to strengthen my cloud security and architecture knowledge.
+- Red Teaming: Sharpening offensive security skills through real-world exercises and scenario-based labs.
+---
+<!-- ----SECTION: GITHUB STATS---- -->
+## <img src="https://img.icons8.com/windows/32/00FF00/command-line.png"/> GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" width="48%" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" width="40%" alt="top-langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="streak-stats" />
+</p>
 
 ---
 <!-- ----SECTION: CONNECT WITH ME---- -->
@@ -44,40 +72,4 @@
     <img src="https://img.shields.io/badge/Sponsor-30363D?logo=GitHub-Sponsors&logoColor=#white" alt="GitHub Sponsors Badge"/>
   </a>
 </p>
-
 ---
-<!-- ----SECTION: GITHUB STATS---- -->
-## <img src="https://img.icons8.com/windows/32/00FF00/command-line.png"/> GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" width="48%" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" width="40%" alt="top-langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="streak-stats" />
-</p>
-
----
-<!-- ----SECTION: TECH STACK---- -->
-## Tech Arsenal <img src="https://img.icons8.com/dotty/24/00FF00/linux.png"/>
-
-```yaml
-  - Code:
-    - Python
-    - C / C++
-    - JavaScript
-    - Bash
-  - OS:
-    - Kali Linux
-    - Arch
-    - Windows Subsystem for Linux
-  - Tools:
-    - Wireshark
-    - Metasploit
-    - Nmap
-    - Burp Suite
-  - Other:
-    - Docker
-    - Git
-    - Reverse Engineering
