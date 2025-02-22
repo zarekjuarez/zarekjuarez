@@ -1,12 +1,14 @@
+<!-- ----SECTION: NAME AND TYPING TEXT---- -->
 <p align ="center">
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=682BFFFF&center=true&vCenter=true&width=435&lines=Endpoint+Engineer;IT+Specialist;Security+Enthusiast;10+Years+Experience" alt="Typing SVG" /></a>
 </p>
+<!-- ----SECTION: GIPHY/IMAGE BANNER---- -->
 <p align="center"> 
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTlkODdwbGhxcGswaTExc3N2Z2VyaThkbTdsdnBrZGpibjE0cDN4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bFEQEDLmhrYsse0zFF/giphy.gif" alt="Gif" width="550"/>
 </p>
 
 ---
-
+<!-- ----SECTION: ABOUT ME---- -->
 ## <img src="https://img.icons8.com/?size=50&id=7819&format=png&color=40C057"/> About Me
 
 - 👾 **Alias**: CyberKnight
@@ -18,7 +20,7 @@
 > – *Kali Linux Terminal*
 
 ---
-
+<!-- ----SECTION: CONNECT WITH ME---- -->
 ## <img src="https://img.icons8.com/material-outlined/24/00FF00/connection-status-on--v1.png"/> Connect With Me
 
 <p align="center">
@@ -41,7 +43,7 @@
 </p>
 
 ---
-
+<!-- ----SECTION: GITHUB STATS---- -->
 ## <img src="https://img.icons8.com/windows/32/00FF00/command-line.png"/> GitHub Stats
 
 <p align="center">
@@ -54,7 +56,7 @@
 </p>
 
 ---
-
+<!-- ----SECTION: TECH STACK---- -->
 ## Tech Arsenal <img src="https://img.icons8.com/dotty/24/00FF00/linux.png"/>
 
 ```yaml
