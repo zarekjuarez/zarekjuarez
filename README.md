@@ -1,6 +1,9 @@
-<!-- ----SECTION: NAME AND TYPING TEXT---- -->
+<!-- ----SECTION: NAME AND DESCRIPTION---- -->
 <p align ="center">
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=682BFFFF&center=true&vCenter=true&width=435&lines=Endpoint+Engineer;IT+Specialist;Security+Enthusiast;10+Years+Experience" alt="Typing SVG" /></a>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=1&pause=1000&color=F700F1&center=true&vCenter=true&repeat=false&width=435&height=25&lines=Zarek+Juarez" alt="Typing SVG" /></a>
+</p>
+<p align ="center">
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F700F1&center=true&vCenter=true&width=435&height=25&lines=Endpoint+Engineer;IT+Specialist;Security+Enthusiast;10+Years+of+Experience" alt="Typing SVG" /></a>
 </p>
 <!-- ----SECTION: GIPHY/IMAGE BANNER---- -->
 <p align="center"> 
