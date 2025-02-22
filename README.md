@@ -12,7 +12,7 @@
 
 ---
 <!-- ----SECTION: ABOUT ME---- -->
-## <img src="https://img.icons8.com/?size=35&id=7819&format=png&color=F700F1"/> $\color{magenta}{\textsf{About Me}}$
+## <img src="https://emojis.slackmojis.com/emojis/images/1682954316/65609/blue-verified.gif?1682954316" width="30"/> $\color{magenta}{\textsf{About Me}}$
 
 I’m an Endpoint Engineer where I focus on endpoint management, automation, and vulnerability remediation. I’m passionate about building secure, efficient IT environments that enable teams to do their best work.
 
@@ -43,7 +43,7 @@ I’m an Endpoint Engineer where I focus on endpoint management, automation, and
 
 ---
 <!-- ----SECTION: GITHUB STATS---- -->
-## <img src="https://img.icons8.com/windows/32/00FF00/command-line.png"/> $\color{magenta}{\textsf{Github Stats}}$
+## <img src="https://emojis.slackmojis.com/emojis/images/1643515549/15682/cool-blue.png?1643515549" width="30"/> $\color{magenta}{\textsf{Github Stats}}$
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" width="48%" alt="stats" />
@@ -56,7 +56,7 @@ I’m an Endpoint Engineer where I focus on endpoint management, automation, and
 
 ---
 <!-- ----SECTION: CONNECT WITH ME---- -->
-## <img src="https://img.icons8.com/material-outlined/24/00FF00/connection-status-on--v1.png"/> $\color{magenta}{\textsf{Connect With Me}}$
+## <img src="https://emojis.slackmojis.com/emojis/images/1643515346/13651/blue_flame.gif?1643515346" width="30"/> $\color{magenta}{\textsf{Connect With Me}}$
 
 <p align="center">
   <a href="https://twitter.com/YOUR_HANDLE">
