@@ -1,17 +1,30 @@
-<!-- ----SECTION: NAME AND DESCRIPTION---- -->
+<!-- ----SECTION: NAME AND DESCRIPTION---- 
+Resources:
+https://readme-typing-svg.herokuapp.com/demo/
+-->
 <p align ="center">
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=1&pause=1000&color=F700F1&center=true&vCenter=true&repeat=false&width=435&height=25&lines=Zarek+Juarez" alt="Typing SVG" /></a>
 </p>
 <p align ="center">
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F700F1&center=true&vCenter=true&width=435&height=25&lines=Endpoint+Engineer;IT+Specialist;Security+Enthusiast;10+Years+of+Experience" alt="Typing SVG" /></a>
 </p>
-<!-- ----SECTION: GIPHY/IMAGE BANNER---- -->
+<!-- ----SECTION: GIPHY/IMAGE BANNER AND SPOTIFY---- 
+Resources:
+https://giphy.com/
+https://github.com/kittinan/spotify-github-profile
+-->
 <p align="center"> 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTlkODdwbGhxcGswaTExc3N2Z2VyaThkbTdsdnBrZGpibjE0cDN4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bFEQEDLmhrYsse0zFF/giphy.gif" alt="Gif" width="550"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTlkODdwbGhxcGswaTExc3N2Z2VyaThkbTdsdnBrZGpibjE0cDN4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bFEQEDLmhrYsse0zFF/giphy.gif" alt="Gif" width="550"/
+</p>
+<p align="center">
+     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=124821895&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
 </p>
 
 ---
-<!-- ----SECTION: ABOUT ME---- -->
+<!-- ----SECTION: ABOUT ME---- 
+Resources:
+https://slackmojis.com/
+-->
 ## <img src="https://emojis.slackmojis.com/emojis/images/1682954316/65609/blue-verified.gif?1682954316" width="30"/> $\color{magenta}{\textsf{About Me}}$
 
 I’m an Endpoint Engineer where I focus on endpoint management, automation, and vulnerability remediation. I’m passionate about building secure, efficient IT environments that enable teams to do their best work.
@@ -46,8 +59,8 @@ I’m an Endpoint Engineer where I focus on endpoint management, automation, and
 ## <img src="https://emojis.slackmojis.com/emojis/images/1643515549/15682/cool-blue.png?1643515549" width="30"/> $\color{magenta}{\textsf{Github Stats}}$
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" width="48%" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" width="40%" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zarekjuarez&show_icons=true&hide_border=true&theme=tokyonight" width="48%" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarekjuarez&layout=compact&hide_border=true&theme=tokyonight" width="40%" alt="top-langs" />
 </p>
 
 <p align="center">
