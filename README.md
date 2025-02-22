@@ -12,18 +12,14 @@
 
 ---
 <!-- ----SECTION: ABOUT ME---- -->
-## <img src="https://img.icons8.com/?size=50&id=7819&format=png&color=40C057"/> About Me
+## <img src="https://img.icons8.com/?size=35&id=7819&format=png&color=F700F1"/> $\color{magenta}{\textsf{About Me}}$
+
 I’m an Endpoint Engineer where I focus on endpoint management, automation, and vulnerability remediation. I’m passionate about building secure, efficient IT environments that enable teams to do their best work.
 
 ✨ **Quick Facts**
 - Location: DFW, TX (Remote)
-- Education:
-  - MBA in IT Management from Western Governors University
-  - B.S. in Information Systems from the University of Texas at Arlington
-- Certifications:
-  - CompTIA A+, Network+, Security+
-  - JAMF 100, 200
-  - MCSA: Windows 10
+- Education: MBA in IT Management | B.S. in Information Systems
+- Certifications: CompTIA A+, Network+, Security+ | JAMF 100, 200 | MCSA: Windows 10
 
 ⚙️ **What I Do**
 - Endpoint Management: Administer client platform management tools to streamline software deployments, patching, and configuration management.
@@ -39,7 +35,7 @@ I’m an Endpoint Engineer where I focus on endpoint management, automation, and
 - Red Teaming: Sharpening offensive security skills through real-world exercises and scenario-based labs.
 ---
 <!-- ----SECTION: GITHUB STATS---- -->
-## <img src="https://img.icons8.com/windows/32/00FF00/command-line.png"/> GitHub Stats
+## <img src="https://img.icons8.com/windows/32/00FF00/command-line.png"/> $\color{magenta}{\textsf{Github Stats}}$
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" width="48%" alt="stats" />
@@ -52,7 +48,7 @@ I’m an Endpoint Engineer where I focus on endpoint management, automation, and
 
 ---
 <!-- ----SECTION: CONNECT WITH ME---- -->
-## <img src="https://img.icons8.com/material-outlined/24/00FF00/connection-status-on--v1.png"/> Connect With Me
+## <img src="https://img.icons8.com/material-outlined/24/00FF00/connection-status-on--v1.png"/> $\color{magenta}{\textsf{Connect With Me}}$
 
 <p align="center">
   <a href="https://twitter.com/YOUR_HANDLE">
