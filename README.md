@@ -24,15 +24,23 @@ I’m an Endpoint Engineer where I focus on endpoint management, automation, and
 ⚙️ **What I Do**
 - Endpoint Management: Administer client platform management tools to streamline software deployments, patching, and configuration management.
 - Automation & Scripting: Develop scripts and policies to enforce secure baselines, optimize workflow, and reduce manual tasks.
-- Collaboration: Work closely with cross-functional teams (Helpdesk, Security, Corporate Apps) to troubleshoot issues, deploy new software, and implement system-wide improvements.
 
 💡 **Ongoing Learning & Interests**
-<p>I believe in continuous growth and love exploring new areas of IT security. I share regular updates on my LinkedIn profile as I progress through these courses and labs. If you have any recommendations or want to collaborate on a project in these areas, feel free to reach out! Here are a few courses and topics I’m diving into:</p>
-
 - Web Application Pentesting: Learning about application security fundamentals, OWASP Top 10, and secure coding practices.
 - Vulnerability Management: Expanding my expertise by focusing on advanced techniques for vulnerability scanning and remediation strategies.
 - AWS Cloud: Studying for AWS certifications to strengthen my cloud security and architecture knowledge.
-- Red Teaming: Sharpening offensive security skills through real-world exercises and scenario-based labs.
+
+<table width="300">
+  <tr>
+    <td>
+         SOME SHORT TEXT
+    </td>
+    <td> 
+         This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer.  
+    </td>
+  </tr>
+</table>
+
 ---
 <!-- ----SECTION: GITHUB STATS---- -->
 ## <img src="https://img.icons8.com/windows/32/00FF00/command-line.png"/> $\color{magenta}{\textsf{Github Stats}}$
