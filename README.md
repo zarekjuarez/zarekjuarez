@@ -44,10 +44,10 @@ https://github.com/kittinan/spotify-github-profile
 ---
 <!-- ----SECTION: COMMUNITY PROJECT SPOTLIGHT---- -->
 ## <img src="https://emojis.slackmojis.com/emojis/images/1662708797/61125/spotlight.png?1662708797" width="30"/> $\color{magenta}{\textsf{Community Spotlight}}$
-Here’s where I share awesome projects and resources from the community that I personally find helpful. My hope is that others can discover something new and exciting too. 
+Here are some awesome community projects and resources I’ve found helpful and inspiring.
 
 <div align="center">
-
+     
 | Name                          | Description                                                |
 |:-----------------------------:|:----------------------------------------------------------:|
 | [IntuneManagement](https://github.com/Micke-K/IntuneManagement)| IntuneManagement with PowerShell and WPF UI|
@@ -55,7 +55,7 @@ Here’s where I share awesome projects and resources from the community that I 
 | [HardenWindowsSecurity](https://github.com/HotCakeX/Harden-Windows-Security) | Harden Windows Security |
 | [AppAutoPatch](https://github.com/App-Auto-Patch/App-Auto-Patch) | Automatically patch 3rd Party Apps for MacOS |
 | [MacOSSecurityCompliance](https://github.com/usnistgov/macos_security) | MacOS Security Compliance |
-
+     
 </div>
 
 ---
