@@ -41,17 +41,22 @@ https://github.com/kittinan/spotify-github-profile
 - Web Application Pentesting: Learning about application security fundamentals, OWASP Top 10, and secure coding practices.
 - Vulnerability Management: Expanding my expertise by focusing on advanced techniques for vulnerability scanning and remediation strategies.
 - AWS Cloud: Studying for AWS certifications to strengthen my cloud security and architecture knowledge.
+---
+<!-- ----SECTION: COMMUNITY PROJECT SPOTLIGHT---- -->
+## <img src="https://emojis.slackmojis.com/emojis/images/1662708797/61125/spotlight.png?1662708797" width="30"/> $\color{magenta}{\textsf{Community Spotlight}}$
+Here’s where I share awesome projects and resources from the community that I personally find helpful. My hope is that others can discover something new and exciting too. 
 
-<table width="300">
-  <tr>
-    <td>
-         SOME SHORT TEXT
-    </td>
-    <td> 
-         This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer.  
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| Name                          | Description                                                |
+|:-----------------------------:|:----------------------------------------------------------:|
+| [IntuneManagement](https://github.com/Micke-K/IntuneManagement)| IntuneManagement with PowerShell and WPF UI|
+| [OpenIntuneBaseline](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline)| Security baseline for Windows devices managed by Microsoft Intune|
+| [HardenWindowsSecurity](https://github.com/HotCakeX/Harden-Windows-Security) | Harden Windows Security |
+| [AppAutoPatch](https://github.com/App-Auto-Patch/App-Auto-Patch) | Automatically patch 3rd Party Apps for MacOS |
+| [MacOSSecurityCompliance](https://github.com/usnistgov/macos_security) | MacOS Security Compliance |
+
+</div>
 
 ---
 <!-- ----SECTION: GITHUB STATS---- -->
@@ -70,22 +75,9 @@ https://github.com/kittinan/spotify-github-profile
 <!-- ----SECTION: CONNECT WITH ME---- -->
 ## <img src="https://emojis.slackmojis.com/emojis/images/1643515346/13651/blue_flame.gif?1643515346" width="30"/> $\color{magenta}{\textsf{Connect With Me}}$
 
-<p align="center">
-  <a href="https://twitter.com/YOUR_HANDLE">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_HANDLE/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <br/>
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=GitHub%20Followers&style=social" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/sponsors/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Sponsor-30363D?logo=GitHub-Sponsors&logoColor=#white" alt="GitHub Sponsors Badge"/>
-  </a>
-</p>
----
+- **Calendly**: [Set up a meeting](https://calendly.com/zarekjuarez)
+- **LinkedIn**: [linkedin.com/in/zarekjuarez](https://www.linkedin.com/in/zarekjuarez/)
+
+
+
+
