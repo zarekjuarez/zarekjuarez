@@ -68,7 +68,7 @@ Here are some awesome community projects and resources I’ve found helpful and 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="streak-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zarekjuarez&theme=tokyonight" width="48%" alt="streak-stats" />
 </p>
 
 ---
